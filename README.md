@@ -5,7 +5,7 @@ It's a simple app designed to point what's already been done within the Hollow K
 It is in an initial but functional version.
 
 
-# How it works:
+## How it works:
 
 
 Mouse over the corners of the screen to move the camera (like league of legends camera)
