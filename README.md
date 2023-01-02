@@ -4,7 +4,8 @@ Hollow Knight game map application to point what has been done.
 It's a simple app designed to point what's already been done within the Hollow Knight map.
 It is in an initial but functional version.
 
-How it works:
+
+# How it works:
 
 
 Mouse over the corners of the screen to move the camera (like league of legends camera)
